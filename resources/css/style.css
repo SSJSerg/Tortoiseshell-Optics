@@ -76,6 +76,22 @@ h1 {
   margin: 1.5rem 5rem;
 }
 
+@media only and screen and (max-width: 1024;)  {
+  .container {
+    width: 100%
+  }
+
+  h1 {
+    margin: .75rem 4rem;
+    font-size: 1.33rem;
+  }
+
+  .motto {
+    margin-top: 5rem;
+    margin-right: 2rem;
+  }
+}
+
 /* Support Content */
 
 .service {
